@@ -1,6 +1,3 @@
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/e62de4c3-c3dd-4354-8fb8-892b48f3f585" />
-
-
 
 # 🎭 cast_prank
 
@@ -20,7 +17,7 @@ A standalone LAN-safe prank module designed for Raspberry Pi and forensic simula
 - 🧼 Copy-paste-safe for GitHub deployment and classroom use  
 - 🧠 Detects OS type and logs prank context for forensic analysis  
 - 🧱 Can be extended to trigger GPIO, LED, or screen overlays  
-
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/e62de4c3-c3dd-4354-8fb8-892b48f3f585" />
 ---
 
 ## 🔊 Chromecast Audio Extension (Optional)
