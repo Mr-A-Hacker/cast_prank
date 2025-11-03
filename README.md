@@ -1,3 +1,4 @@
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/e62de4c3-c3dd-4354-8fb8-892b48f3f585" />
 # 🎭 cast_prank
 
 A standalone LAN-safe prank module designed for Raspberry Pi and forensic simulation. This tool logs timestamped prank events and optionally triggers sound alerts — perfect for dramatic overlays, boot-time traps, or dashboard integration.
