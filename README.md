@@ -18,3 +18,9 @@ A standalone LAN-safe prank module designed for Raspberry Pi and forensic simula
 
 ```bash
 python3 cast_prank.py
+
+
+## 🎓 Credits
+
+Created by [Mr-A-Hacker](https://github.com/Mr-A-Hacker)  
+For LAN-only simulations, forensic overlays, and ethical hacking education
