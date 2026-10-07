@@ -1,3 +1,10 @@
+> ## 👋 Start Here
+> A local prank/alert experiment. **For users:** this project demonstrates timestamped event logging and optional local audio/device integration. Only use it on equipment you own or have permission to control.
+>
+> **Safety:** Use security, camera, and network features only on systems and networks you own or are explicitly authorized to test.
+
+---
+
 
 # 🎭 cast_prank
 
